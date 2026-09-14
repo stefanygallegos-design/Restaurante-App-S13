@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Clásica",
+        "descripcion": "Hamburguesa con carne, queso, lechuga y tomate",
+        "precio": 5.50,
+        "categoria": "Hamburguesas"
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza Familiar",
+        "descripcion": "Pizza familiar de queso y pepperoni",
+        "precio": 12.00,
+        "categoria": "Pizzas"
+    },
+    {
+        "id": 3,
+        "nombre": "Papas Fritas",
+        "descripcion": "Papas fritas crujientes",
+        "precio": 2.50,
+        "categoria": "Acompañamientos"
+    },
+    {
+        "id": 4,
+        "nombre": "Ensalada César",
+        "descripcion": "Ensalada fresca con pollo y aderezo César",
+        "precio": 4.00,
+        "categoria": "Ensaladas"
+    },
+    {
+        "id": 5,
+        "nombre": "Jugo Natural",
+        "descripcion": "Jugo natural de frutas",
+        "precio": 2.00,
+        "categoria": "Bebidas"
+    }
+]
